@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real world problems with Data
 - 🌱 I’m currently studying Business Analytics at UC Davis
 - 💞️ I’m looking to collaborate on Data Analytics, Machine Learning and Web Scraping projects 
-- 📫 How to reach me ...
+- 📫 You can reach out to me on https://www.linkedin.com/in/priyanka-1/
 
 <!---
 sprynka/sprynka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
